@@ -32,7 +32,7 @@ const App = () => {
   }, [fact]);
 
   const handleClick = async () => {
-    const newFact = await getRandomFact(setFact);
+    const newFact = await getRandomFact();
     setFact(newFact);
   };
 
