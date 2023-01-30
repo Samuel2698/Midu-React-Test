@@ -8,6 +8,10 @@ main {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+button {
+  cursor: pointer;
+}
+
 section {
   display: flex;
   justify-content: space-between;
