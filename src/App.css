@@ -10,6 +10,7 @@ main {
 
 button {
   cursor: pointer;
+  margin-bottom: 1rem;
 }
 
 section {
